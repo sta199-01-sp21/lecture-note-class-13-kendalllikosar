@@ -1,6 +1,6 @@
 ---
 title: "Simulation-based inference - confidence intervals"
-author: ""
+author: "Kendall Likosar"
 date: "March 3, 2021"
 output: html_document
 editor_options: 
